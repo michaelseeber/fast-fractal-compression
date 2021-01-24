@@ -1,8 +1,8 @@
 # ASL Project
 
-## Report: 
+## Report 
 
-Our report can be found [here](22_report.pdf).
+The report can be found [here](22_report.pdf).
 
 ## Directories
 * `mannyray/`: this is the original repository from [github](https://github.com/mannyray/fractalMapping)
