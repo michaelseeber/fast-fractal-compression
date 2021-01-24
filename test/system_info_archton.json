@@ -1,0 +1,10 @@
+{
+    "cpu_name": "Intel Core i7-3632QM",
+    "cpu_base_freq": "2.20GHz",
+    "compiler": "GCC-9.3.0",
+    "os": "Arch Linux",
+    "peak_perf_vec": 16,
+    "peak_perf": 2,
+    "mem_bandwidth_theoretical": 11.64,
+    "mem_bandwidth_measured": 6.74
+}

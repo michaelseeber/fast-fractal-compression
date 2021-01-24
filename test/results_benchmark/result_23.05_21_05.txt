@@ -1,0 +1,39 @@
+Starting program for random image of size 512 x 512
+14 functions registered.
+error = 333132
+7629897728 flops + 67108864 divs + 16777216 sqrts
+flops, cycles: 7713783808, 4.7661e+09
+Running: find_optimal_mappings_reference
+1.62 flops / cycles
+7713783808 flops
+2179072 bytes
+0.869986% of them are divisions
+0.217497% of them are square roots
+
+flops, cycles: 7663452160, 1.51253e+09
+Running: find_optimal_mappings_scalar_replacement_modified
+5.07 flops / cycles
+7663452160 flops
+2179072 bytes
+0.43785% of them are divisions
+
+flops, cycles: 7663452160, 1.0832e+09
+Running: find_optimal_mappings_inline_modified
+7.07 flops / cycles
+7663452160 flops
+2179072 bytes
+0.43785% of them are divisions
+
+flops, cycles: 7663452160, 6.53264e+08
+Running: find_optimal_mappings_ilp_modified
+11.73 flops / cycles
+7663452160 flops
+2179072 bytes
+0.43785% of them are divisions
+
+flops, cycles: 8485535744, 5.78982e+08
+Running: find_optimal_mappings_avx
+14.66 flops / cycles
+8485535744 flops
+2179072 bytes
+0.395431% of them are divisions

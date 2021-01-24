@@ -1,0 +1,40 @@
+Starting program for random image of size 512 x 512
+14 functions registered.
+
+15246753792 flops + 134217728 divs + 33554432 sqrts
+flops, cycles: 15414525952, 9.64434e+09
+Running: find_optimal_mappings_flip_reference
+1.6 flops / cycles
+15414525952 flops
+3227648 bytes
+0.870722% of them are divisions
+0.217681% of them are square roots
+
+flops, cycles: 15313862656, 3.066e+09
+Running: find_optimal_mappings_flip_scalar_replacement_modified
+4.99 flops / cycles
+15313862656 flops
+3227648 bytes
+0.438223% of them are divisions
+
+flops, cycles: 15313862656, 2.2559e+09
+Running: find_optimal_mappings_flip_inline_modified
+6.79 flops / cycles
+15313862656 flops
+3227648 bytes
+0.438223% of them are divisions
+
+flops, cycles: 15313862656, 1.3028e+09
+Running: find_optimal_mappings_flip_ilp_modified_splitloop
+11.75 flops / cycles
+15313862656 flops
+3227648 bytes
+0.438223% of them are divisions
+
+flops, cycles: 16958029824, 1.15221e+09
+Running: find_optimal_mappings_flip_avx_splitloop
+14.72 flops / cycles
+16958029824 flops
+3227648 bytes
+0.395735% of them are divisions
+

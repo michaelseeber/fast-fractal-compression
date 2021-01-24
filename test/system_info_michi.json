@@ -1,0 +1,11 @@
+{
+    "cpu_name": "Intel Core i7-8650U CPU",
+    "cpu_base_freq": "1.90GHz",
+    "compiler": "GCC-8.2.0-5",
+    "os": "Windows 10",
+    "peak_perf_vec": 32,
+    "peak_perf": 4,
+    "mem_bandwidth_measured": 7.44  ,
+    "mem_bandwidth_theoretical": 19.86
+
+}

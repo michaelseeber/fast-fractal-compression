@@ -1,0 +1,140 @@
+Image: 256_aerial.jpg/nImage loaded successfully: height = 256	width = 256	channels = 3
+
+Start: convert color image to grayscale
+Done.
+
+Start: compress image
+blockCount = 1024
+	Start: find optimal mapping
+	Done.
+Done.	0.901945 s
+
+Running: compress_reference 0.51 flops/ cycles
+Start: write fic_compress_flip_output
+Done.
+
+Image: 256_aerial.jpg/nImage loaded successfully: height = 256	width = 256	channels = 3
+
+Start: convert color image to grayscale
+Done.
+
+Start: compress image
+	Start: resize
+	Done.
+	Start: rotate
+	Done.
+	Start: split image into blocks with stride = 16 resulting in 256 blocks
+	Done.
+	Start: find optimal mapping
+	Done.
+Done.	0.0183222 s
+
+Running: compress_fast 14.44 flops/ cycles
+Start: write fic_compress_flip_fast_output
+Done.
+
+Image: 512_bridge.jpg/nImage loaded successfully: height = 512	width = 512	channels = 3
+
+Start: convert color image to grayscale
+Done.
+
+Start: compress image
+blockCount = 4096
+	Start: find optimal mapping
+	Done.
+Done.	14.6635 s
+
+Running: compress_reference 0.51 flops/ cycles
+Start: write fic_compress_flip_output
+Done.
+
+Image: 512_bridge.jpg/nImage loaded successfully: height = 512	width = 512	channels = 3
+
+Start: convert color image to grayscale
+Done.
+
+Start: compress image
+	Start: resize
+	Done.
+	Start: rotate
+	Done.
+	Start: split image into blocks with stride = 16 resulting in 1024 blocks
+	Done.
+	Start: find optimal mapping
+	Done.
+Done.	0.293819 s
+
+Running: compress_fast 14.4 flops/ cycles
+Start: write fic_compress_flip_fast_output
+Done.
+
+Image: 1024_airport.jpg/nImage loaded successfully: height = 1024	width = 1024	channels = 3
+
+Start: convert color image to grayscale
+Done.
+
+Start: compress image
+blockCount = 16384
+	Start: find optimal mapping
+	Done.
+Done.	226.727 s
+
+Running: compress_reference 0.52 flops/ cycles
+Start: write fic_compress_flip_output
+Done.
+
+Image: 1024_airport.jpg/nImage loaded successfully: height = 1024	width = 1024	channels = 3
+
+Start: convert color image to grayscale
+Done.
+
+Start: compress image
+	Start: resize
+	Done.
+	Start: rotate
+	Done.
+	Start: split image into blocks with stride = 16 resulting in 4096 blocks
+	Done.
+	Start: find optimal mapping
+	Done.
+Done.	4.55036 s
+
+Running: compress_fast 14.88 flops/ cycles
+Start: write fic_compress_flip_fast_output
+Done.
+
+Image: 2048_road.jpg/nImage loaded successfully: height = 2048	width = 2048	channels = 3
+
+Start: convert color image to grayscale
+Done.
+
+Start: compress image
+blockCount = 65536
+	Start: find optimal mapping
+	Done.
+Done.	3612.35 s
+
+Running: compress_reference 0.53 flops/ cycles
+Start: write fic_compress_flip_output
+Done.
+
+Image: 2048_road.jpg/nImage loaded successfully: height = 2048	width = 2048	channels = 3
+
+Start: convert color image to grayscale
+Done.
+
+Start: compress image
+	Start: resize
+	Done.
+	Start: rotate
+	Done.
+	Start: split image into blocks with stride = 16 resulting in 16384 blocks
+	Done.
+	Start: find optimal mapping
+	Done.
+Done.	99.2968 s
+
+Running: compress_fast 10.91 flops/ cycles
+Start: write fic_compress_flip_fast_output
+Done.
+

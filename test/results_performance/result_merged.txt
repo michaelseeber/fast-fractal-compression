@@ -1,0 +1,379 @@
+Image: 128_ape.bmp/nImage loaded successfully: height = 128	width = 128	channels = 3
+
+FAST UNOPTIMIZED
+Running: compress_fast 1.62 flops/ cycles
+
+SCALAR REPLACMENT
+Running: compress_fast 4.93 flops/ cycles
+
+INLINING
+Running: compress_fast 6.53 flops/ cycles
+
+ILP
+
+Running: compress_fast 10.76 flops/ cycles
+
+AVX
+Running: compress_fast 12.22 flops/ cycles
+
+Image: 256_ape.bmp/nImage loaded successfully: height = 256	width = 256	channels = 3
+
+FAST UNOPTIMIZED
+Running: compress_fast 1.49 flops/ cycles
+
+SCALAR REPLACMENT
+Running: compress_fast 4.99 flops/ cycles
+
+INLINING
+Running: compress_fast 6.61 flops/ cycles
+
+ILP
+Running: compress_fast 11.19 flops/ cycles
+
+AVX
+Running: compress_fast 13.32 flops/ cycles
+
+
+
+Image: 384_ape.bmp/nImage loaded successfully: height = 384	width = 384	channels = 3
+
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.64 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 5.19 flops/ cycles
+
+INLINING
+
+Running: compress_fast 7.07 flops/ cycles
+
+ILP
+
+Running: compress_fast 12.45 flops/ cycles
+
+AVX
+
+Running: compress_fast 13.47 flops/ cycles
+
+
+Image: 512_ape.bmp/nImage loaded successfully: height = 512	width = 512	channels = 3
+
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.6 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 5.01 flops/ cycles
+
+INLINING
+
+Running: compress_fast 6.85 flops/ cycles
+
+ILP
+
+Running: compress_fast 12.34 flops/ cycles
+
+AVX
+
+Running: compress_fast 13.42 flops/ cycles
+
+
+
+Image: 640_ape.bmp/nImage loaded successfully: height = 640	width = 640	channels = 3
+
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.63 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 5.26 flops/ cycles
+
+INLINING
+
+Running: compress_fast 7.11 flops/ cycles
+
+ILP
+
+Running: compress_fast 12.36 flops/ cycles
+
+AVX
+
+Running: compress_fast 13.85 flops/ cycles
+
+
+
+Image: 768_ape.bmp/nImage loaded successfully: height = 768	width = 768	channels = 3
+
+
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.59 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 4.87 flops/ cycles
+
+INLINING
+
+Running: compress_fast 6.89 flops/ cycles
+
+ILP
+
+Running: compress_fast 12.42 flops/ cycles
+
+AVX
+
+Running: compress_fast 13.54 flops/ cycles
+
+
+
+Image: 896_ape.bmp/nImage loaded successfully: height = 896	width = 896	channels = 3
+
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.56 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 5.13 flops/ cycles
+
+INLINING
+
+Running: compress_fast 6.93 flops/ cycles
+
+ILP
+
+Running: compress_fast 12.34 flops/ cycles
+
+AVX
+
+Running: compress_fast 13.9 flops/ cycles
+
+
+
+Image: 1024_ape.bmp/nImage loaded successfully: height = 1024	width = 1024	channels = 3
+
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.54 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 4.78 flops/ cycles
+
+INLINING
+
+Running: compress_fast 6.5 flops/ cycles
+
+ILP
+
+Running: compress_fast 12.35 flops/ cycles
+
+AVX
+
+Running: compress_fast 13.79 flops/ cycles
+
+
+Image: 1152_ape.bmp/nImage loaded successfully: height = 1152	width = 1152	channels = 3
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.59 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 4.79 flops/ cycles
+
+INLINING
+
+Running: compress_fast 6.47 flops/ cycles
+
+ILP
+
+Running: compress_fast 12.17 flops/ cycles
+
+AVX
+
+Running: compress_fast 13.59 flops/ cycles
+
+
+
+Image: 1280_ape.bmp/nImage loaded successfully: height = 1280	width = 1280	channels = 3
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.54 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 4.51 flops/ cycles
+
+INLINING
+
+Running: compress_fast 6.12 flops/ cycles
+
+ILP
+
+Running: compress_fast 11.4 flops/ cycles
+
+AVX
+
+Running: compress_fast 12.84 flops/ cycles
+
+
+Image: 1408_ape.bmp/nImage loaded successfully: height = 1408	width = 1408	channels = 3
+
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.57 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 4.56 flops/ cycles
+
+INLINING
+
+Running: compress_fast 6.2 flops/ cycles
+
+ILP
+
+Running: compress_fast 10.99 flops/ cycles
+
+AVX
+
+Running: compress_fast 12.15 flops/ cycles
+
+
+Image: 1536_ape.bmp/nImage loaded successfully: height = 1536	width = 1536	channels = 3
+
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.53 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 4.34 flops/ cycles
+
+INLINING
+
+Running: compress_fast 5.93 flops/ cycles
+
+ILP
+
+Running: compress_fast 10.23 flops/ cycle
+
+AVX
+
+Running: compress_fast 11.34 flops/ cycles
+
+
+
+Image: 1664_ape.bmp/nImage loaded successfully: height = 1664	width = 1664	channels = 3
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.57 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 4.45 flops/ cycles
+
+INLINING
+
+Running: compress_fast 6.08 flops/ cycles
+
+ILP
+
+Running: compress_fast 9.96 flops/ cycles
+
+AVX
+
+Running: compress_fast 11.03 flops/ cycles
+
+
+
+Image: 1792_ape.bmp/nImage loaded successfully: height = 1792	width = 1792	channels = 3
+
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.52 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 4.32 flops/ cycles
+
+INLINING
+
+Running: compress_fast 5.87 flops/ cycles
+
+ILP
+
+Running: compress_fast 9.55 flops/ cycles
+
+AVX
+
+
+Running: compress_fast 10.61 flops/ cycles
+
+
+
+Image: 1920_ape.bmp/nImage loaded successfully: height = 1920	width = 1920	channels = 3
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.55 flops/ cycles
+
+SCALAR REPLACMENT
+
+Running: compress_fast 4.43 flops/ cycles
+
+INLINING
+
+Running: compress_fast 5.98 flops/ cycles
+
+ILP
+
+Running: compress_fast 9.43 flops/ cycles
+
+AVX
+
+Running: compress_fast 10.39 flops/ cycles
+
+
+Image: 2048_ape.bmp/nImage loaded successfully: height = 2048	width = 2048	channels = 3
+
+
+FAST UNOPTIMIZED
+
+Running: compress_fast 1.51 flops/ cycle
+
+SCALAR REPLACMENT
+
+Running: compress_fast 4.18 flops/ cycles
+
+INLINING
+
+Running: compress_fast 5.79 flops/ cycles
+
+ILP
+
+Running: compress_fast 8.93 flops/ cycles
+
+AVX
+
+Running: compress_fast 9.97 flops/ cycles
+
+

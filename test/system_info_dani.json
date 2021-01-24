@@ -1,0 +1,10 @@
+{
+    "cpu_name": "Intel Core i7-6700K",
+    "cpu_base_freq": "4.00GHz",
+    "compiler": "GCC-9.3.0",
+    "os": "Ubuntu 20.04 LTS",
+    "peak_perf_vec": 32,
+    "peak_perf": 4,
+    "mem_bandwidth_theoretical": 8.525,
+    "mem_bandwidth_measured": 5.317
+}

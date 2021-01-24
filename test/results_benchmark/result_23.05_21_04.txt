@@ -1,0 +1,175 @@
+Starting program for random image of size 512 x 512
+14 functions registered.
+ERROR!!!!  the results for function 'find_optimal_mappings_avx_hsuminlined' are different to the previous
+error = 333132
+7629897728 flops + 67108864 divs + 16777216 sqrts
+flops, cycles: 7713783808, 4.7661e+09
+Running: find_optimal_mappings_reference
+1.62 flops / cycles
+7713783808 flops
+2179072 bytes
+0.869986% of them are divisions
+0.217497% of them are square roots
+
+7629897728 flops + 67108864 divs + 16777216 sqrts
+flops, cycles: 7713783808, 1.74525e+09
+Running: find_optimal_mappings_scalar_replacement
+4.42 flops / cycles
+7713783808 flops
+2179072 bytes
+0.869986% of them are divisions
+0.217497% of them are square roots
+
+flops, cycles: 7663452160, 1.51253e+09
+Running: find_optimal_mappings_scalar_replacement_modified
+5.07 flops / cycles
+7663452160 flops
+2179072 bytes
+0.43785% of them are divisions
+
+flops, cycles: 7663452160, 1.0832e+09
+Running: find_optimal_mappings_inline_modified
+7.07 flops / cycles
+7663452160 flops
+2179072 bytes
+0.43785% of them are divisions
+
+flops, cycles: 7667646464, 1.07779e+09
+Running: find_optimal_mappings_strength_reduction_modified
+7.11 flops / cycles
+7667646464 flops
+2179072 bytes
+0.0547013% of them are divisions
+
+flops, cycles: 7617314816, 1.34442e+09
+Running: find_optimal_mappings_code_motion_modified
+5.67 flops / cycles
+7617314816 flops
+2179072 bytes
+0.165188% of them are divisions
+
+flops, cycles: 7663452160, 6.53264e+08
+Running: find_optimal_mappings_ilp_modified
+11.73 flops / cycles
+7663452160 flops
+2179072 bytes
+0.43785% of them are divisions
+
+flops, cycles: 7663452160, 2.98256e+09
+Running: find_optimal_mappings_ilp_modified_reordered
+2.57 flops / cycles
+7663452160 flops
+2179072 bytes
+0.43785% of them are divisions
+
+flops, cycles: 7663452160, 1.0942e+09
+Running: find_optimal_mappings_GCC_vectorization_modified
+7 flops / cycles
+7663452160 flops
+2179072 bytes
+0.43785% of them are divisions
+
+flops, cycles: 8485535744, 5.78982e+08
+Running: find_optimal_mappings_avx
+14.66 flops / cycles
+8485535744 flops
+2179072 bytes
+0.395431% of them are divisions
+
+flops, cycles: 8485535744, 7.6818e+08
+Running: find_optimal_mappings_avx_splitloop
+11.05 flops / cycles
+8485535744 flops
+2179072 bytes
+0.395431% of them are divisions
+
+flops, cycles: 8485535744, 5.79395e+08
+Running: find_optimal_mappings_avx_hsuminlined
+14.65 flops / cycles
+8485535744 flops
+2179072 bytes
+0.395431% of them are divisions
+
+flops, cycles: 7982219264, 5.8061e+08
+Running: find_optimal_mappings_avx_althsum
+13.75 flops / cycles
+7982219264 flops
+2179072 bytes
+0.420365% of them are divisions
+
+flops, cycles: 8485535744, 1.446e+09
+Running: find_optimal_mappings_avx_reordered
+5.87 flops / cycles
+8485535744 flops
+2179072 bytes
+0.395431% of them are divisions
+
+Starting program for random image of size 512 x 512
+10 functions registered.
+ERROR!!!!  the results for function 'find_optimal_mappings_flip_avx_all_transformations_in_vector' are different to the previous
+error = 1.44168e+06
+15246753792 flops + 134217728 divs + 33554432 sqrts
+flops, cycles: 15414525952, 9.64434e+09
+Running: find_optimal_mappings_flip_reference
+1.6 flops / cycles
+15414525952 flops
+3227648 bytes
+0.870722% of them are divisions
+0.217681% of them are square roots
+
+flops, cycles: 15313862656, 3.066e+09
+Running: find_optimal_mappings_flip_scalar_replacement_modified
+4.99 flops / cycles
+15313862656 flops
+3227648 bytes
+0.438223% of them are divisions
+
+flops, cycles: 15313862656, 2.2559e+09
+Running: find_optimal_mappings_flip_inline_modified
+6.79 flops / cycles
+15313862656 flops
+3227648 bytes
+0.438223% of them are divisions
+
+flops, cycles: 15313862656, 1.45884e+09
+Running: find_optimal_mappings_flip_ilp_modified
+10.5 flops / cycles
+15313862656 flops
+3227648 bytes
+0.438223% of them are divisions
+
+flops, cycles: 15313862656, 8.6028e+09
+Running: find_optimal_mappings_flip_ilp_modified_reordered
+1.78 flops / cycles
+15313862656 flops
+3227648 bytes
+0.438223% of them are divisions
+
+flops, cycles: 15313862656, 1.3028e+09
+Running: find_optimal_mappings_flip_ilp_modified_splitloop
+11.75 flops / cycles
+15313862656 flops
+3227648 bytes
+0.438223% of them are divisions
+
+flops, cycles: 15313862656, 1.34916e+09
+Running: find_optimal_mappings_flip_ilp_modified_splitloop2
+11.35 flops / cycles
+15313862656 flops
+3227648 bytes
+0.438223% of them are divisions
+
+flops, cycles: 16958029824, 1.36766e+09
+Running: find_optimal_mappings_flip_avx
+12.4 flops / cycles
+16958029824 flops
+3227648 bytes
+0.395735% of them are divisions
+
+flops, cycles: 16958029824, 1.15221e+09
+Running: find_optimal_mappings_flip_avx_splitloop
+14.72 flops / cycles
+16958029824 flops
+3227648 bytes
+0.395735% of them are divisions
+

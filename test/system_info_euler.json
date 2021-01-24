@@ -1,0 +1,10 @@
+{
+    "cpu_name": "Intel Xeon E3-1284L CPU",
+    "cpu_base_freq": "2.90GHz",
+    "compiler": "GCC-8.2.0",
+    "os": "CentOS Linux 7 (Core)",
+    "peak_perf_vec": 32,
+    "peak_perf": 4,
+    "mem_bandwidth_theoretical": 8.8276,
+    "mem_bandwidth_measured": 6.74
+}

@@ -1,0 +1,65 @@
+fic/build
+fic/release
+.DS_Store
+fic/ext_build
+CMakeCache.txt
+CMakeFiles
+Makefile
+*.cmake
+*.idea
+*.swp
+
+# ignore further images
+fic/images/*
+# if you want to add images to the git repo, add another exception here
+!fic/images/lena_color.gif
+!fic/images/lena_gray.gif
+!fic/images/source.txt
+!fic/images/1024_man.jpg
+!fic/images/256_aerial.jpg
+!fic/images/256_aeroplane.jpg
+!fic/images/256_moon.jpg
+!fic/images/256_clock.jpg
+!fic/images/256_res_chart.jpg
+!fic/images/256_tank.bmp
+!fic/images/512_bridge.jpg
+!fic/images/512_cheeky_chick.bmp
+!fic/images/512_clown.bmp
+!fic/images/512_crowd.bmp
+!fic/images/512_tank2.bmp
+!fic/images/512_trucks.bmp
+!fic/images/1024_airport.jpg
+!fic/images/1024_aeroplaneu2.jpg
+!fic/images/5904_4720_Zoneplate.jpg
+!fic/images/7088_2160_Lenstarg.jpg
+
+# ignore decompress executable
+c-code/regularFractal/decompress
+c-code/regularFractalWithRotation/decompress
+# ignore decompress output
+c-code/regularFractalWithRotation/*.pnm
+c-code/regularFractal/*.pnm
+
+#ignore logs
+test/results_benchmark/*
+test/results_performance/*
+# unignore benchmark plots
+!test/results_benchmark/result_23.05_21_04.txt
+!test/results_benchmark/result_23.05_21_05.txt
+!test/results_benchmark/result_23.05_21_06.txt
+!test/results_performance/result_23.05_19_19.txt
+!test/results_performance/result_23.05_21_51.txt
+!test/results_performance/result_merged.txt
+
+# ignore python virtual environment
+test/virtenv
+
+# ignore further changes to system-info
+test/system_info.json
+
+# ignore plot output
+test/benchmark_plot.png
+test/benchmark_plot.pdf
+
+# ignore stream executable (measures memory bandwidth
+test/stream
