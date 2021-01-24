@@ -1,8 +1,10 @@
-# ASL Project
+# FULL STACK OPTIMIZATION OF FRACTAL IMAGE COMPRESSION
+
+This repo contains optimized code for full stack fractal image compression. Read the report for more details.
 
 ## Report 
 
-The report can be found [here](22_report.pdf).
+The report can be found [here](report.pdf).
 
 ## Directories
 * `mannyray/`: this is the original repository from [github](https://github.com/mannyray/fractalMapping)
