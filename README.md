@@ -1,4 +1,4 @@
-# FULL STACK OPTIMIZATION OF FRACTAL IMAGE COMPRESSION
+# Full Stack Optimization Of Fractal Image Compression
 
 This repo contains optimized code for full stack fractal image compression. Read the report for more details.
 
